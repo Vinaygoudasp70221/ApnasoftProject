@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     box-sizing: border-box;
+    overflow-y:hidden;
 }
 .Heading{
     text-align: center;
