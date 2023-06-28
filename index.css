@@ -5,7 +5,7 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     box-sizing: border-box;
-    overflow-y:hidden;
+   
 }
 .Heading{
     text-align: center;
@@ -47,7 +47,8 @@ text-shadow: 10px 10px 10px black;
     box-sizing: border-box;
     text-align: center;
     justify-content: center;
-    margin-top: 280px;
+   padding-top: 150px;
+    
 }
 .infor button{
     padding: 5px;
